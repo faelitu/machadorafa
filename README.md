@@ -9,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machadorafa&theme=radical)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machadorafa&theme=radical&layout=compact)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machadorafa&theme=radical)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machadorafa&theme=radical&layout=compact)](#)
