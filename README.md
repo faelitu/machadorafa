@@ -10,3 +10,5 @@
 - ⚡ Fun fact: ... -->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machadorafa&theme=radical)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machadorafa&theme=radical&layout=compact)](#)
+
+[<img src="https://rafaelmachado.dev/img/website-card.png" width="850"/>](https://rafaelmachado.dev/)
